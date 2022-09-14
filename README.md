@@ -47,15 +47,9 @@ This chapter only describes how to create a new CustomWebControl from the given 
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
-
-* [David Kollinger](https://code.siemens.com/z0031dme) - *Initial work*
-
-See also the list of [contributors](https://code.siemens.com/simatic-systems-support/visualization/customwebcontrols-unified/gaugemeter/-/graphs/master) who participated in this project.
-
 ## License
 
-This project is licensed by Siemens AG 2020
+see [LICENSE.md](LICENSE.md)
 
 ## Acknowledgments
 
