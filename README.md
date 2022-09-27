@@ -1,6 +1,6 @@
 # GaugeMeter
 
-The GaugeMeter CWC is also officially released in SIOS (https://support.industry.siemens.com/cs/ww/de/view/109779176)
+The GaugeMeter CWC is also officially released in SIOS (https://support.industry.siemens.com/cs/ww/en/view/109779176)
 
 ## Getting Started
 
